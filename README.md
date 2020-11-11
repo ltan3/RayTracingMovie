@@ -55,3 +55,7 @@ Cylinder intersection was hard to get working, especially for the stick figure, 
 
 If I were to do this again I would pay more attention to the layout of my scene early on--I had initially tried to set my movie on a deserted island, before realizing that there aren't enough features on a deserted island to display all the ray tracing features that were required. I would have spent more time drawing/visualizing/making diagrams of the scene instead of attempting to place objects via trial and error.
 
+# Credits
+
+Motion capture data is from the [CMU Motion Capture Database](http://mocap.cs.cmu.edu/).
+
