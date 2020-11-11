@@ -1,6 +1,8 @@
 
 Lance Tan
+
 CPSC 578 Computer Graphics: Final Project
+
 5/2/2020
 
 # Video
